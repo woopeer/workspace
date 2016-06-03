@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1458919763 source:/home/woop/Documents/woop/main.c
+	<stdio.h>
+	<stdlib.h>
+	"./woopFc.h"
+
+1458919939 /home/woop/Documents/woop/woopFc.h
+
+1459004087 source:/home/woop/Documents/Calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+	"./woopFc.h"
+
+1459003947 /home/woop/Documents/Calculator/woopFc.h
+

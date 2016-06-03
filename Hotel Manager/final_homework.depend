@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1463854317 source:/home/woop/Documents/homework/final_homework/record.c
+	"record.h"
+	"guest.h"
+	"room.h"
+	<stdio.h>
+	"record.h"
+	"menu.h"
+	"guest.h"
+	"room.h"
+	<time.h>
+	<stdio.h>
+
+1463846682 
+
+1463854016 source:/home/woop/Documents/homework/final_homework/util.c
+	"util.h"
+	"room.h"
+	"guest.h"
+	<time.h>
+	<stdio.h>
+	"util.h"
+	"room.h"
+	"guest.h"
+	<time.h>
+	<stdio.h>
+
+1463794126 source:/home/woop/Documents/homework/final_homework/main.c
+	<stdio.h>
+	<stdlib.h>
+	"display.h"
+	"record.h"
+	"room.h"
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+	"display.h"
+	"record.h"
+	"room.h"
+	"util.h"
+
+1463794964 /home/woop/Documents/homework/final_homework/display.h
+
+1463852931 /home/woop/Documents/homework/final_homework/record.h
+
+1463813786 /home/woop/Documents/homework/final_homework/room.h
+	"util.h"
+	"guest.h"
+	"util.h"
+	"guest.h"
+
+1463854016 /home/woop/Documents/homework/final_homework/util.h
+
+1463846682 source:/home/woop/Documents/homework/final_homework/room.c
+	"room.h"
+	"guest.h"
+	<stdlib.h>
+	"room.h"
+	"guest.h"
+	<stdlib.h>
+
+1463849163 source:/home/woop/Documents/homework/final_homework/display.c
+	"display.h"
+	"menu.h"
+	"record.h"
+	"room.h"
+	"util.h"
+	<stdlib.h>
+	"display.h"
+	"menu.h"
+	"record.h"
+	"room.h"
+	"util.h"
+	<stdlib.h>
+
+1463813848 source:/home/woop/Documents/homework/final_homework/guest.c
+	"guest.h"
+	<stdlib.h>
+	"guest.h"
+	<stdlib.h>
+
+1463813848 /home/woop/Documents/homework/final_homework/guest.h
+
+1463844946 /home/woop/Documents/homework/final_homework/menu.h
+
+1463853594 source:/home/woop/Documents/homework/final_homework/menu.c
+	"menu.h"
+	"room.h"
+	"guest.h"
+	"display.h"
+	"menu.h"
+	"room.h"
+	"guest.h"
+	"display.h"
+	"record.h"
+
+1463838006 "
+
+1463849163 source:c:\users\woop\desktop\final_homework\display.c
+	"display.h"
+	"menu.h"
+	"record.h"
+	"room.h"
+	"util.h"
+	<stdlib.h>
+
+1463794964 c:\users\woop\desktop\final_homework\display.h
+
+1463844946 c:\users\woop\desktop\final_homework\menu.h
+
+1463850989 c:\users\woop\desktop\final_homework\record.h
+
+1463813786 c:\users\woop\desktop\final_homework\room.h
+	"util.h"
+	"guest.h"
+
+1463846068 c:\users\woop\desktop\final_homework\util.h
+
+1463813848 c:\users\woop\desktop\final_homework\guest.h
+
+1463813848 source:c:\users\woop\desktop\final_homework\guest.c
+	"guest.h"
+	<stdlib.h>
+
+1463794126 source:c:\users\woop\desktop\final_homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	"display.h"
+	"record.h"
+	"room.h"
+	"util.h"
+
+1463846593 source:c:\users\woop\desktop\final_homework\menu.c
+	"menu.h"
+	"room.h"
+	"guest.h"
+	"display.h"
+	"record.h"
+
+1463850127 source:c:\users\woop\desktop\final_homework\record.c
+	"record.h"
+	"menu.h"
+	"guest.h"
+	"room.h"
+	<time.h>
+	<stdio.h>
+
+1463846682 source:c:\users\woop\desktop\final_homework\room.c
+	"room.h"
+	"guest.h"
+	<stdlib.h>
+
+1463846068 source:c:\users\woop\desktop\final_homework\util.c
+	"util.h"
+	"room.h"
+	"guest.h"
+	<time.h>
+	<stdio.h>
+
+1463849163 source:c:\users\woop\desktop\新建文件夹\src\display.c
+	"display.h"
+	"menu.h"
+	"record.h"
+	"room.h"
+	"util.h"
+	<stdlib.h>
+
+1463794964 c:\users\woop\desktop\新建文件夹\src\display.h
+
+1463844946 c:\users\woop\desktop\新建文件夹\src\menu.h
+
+1463852931 c:\users\woop\desktop\新建文件夹\src\record.h
+
+1463813786 c:\users\woop\desktop\新建文件夹\src\room.h
+	"util.h"
+	"guest.h"
+
+1463854016 c:\users\woop\desktop\新建文件夹\src\util.h
+
+1463813848 c:\users\woop\desktop\新建文件夹\src\guest.h
+
+1463813848 source:c:\users\woop\desktop\新建文件夹\src\guest.c
+	"guest.h"
+	<stdlib.h>
+
+1463794126 source:c:\users\woop\desktop\新建文件夹\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"display.h"
+	"record.h"
+	"room.h"
+	"util.h"
+
+1463898986 source:c:\users\woop\desktop\新建文件夹\src\menu.c
+	"menu.h"
+	"room.h"
+	"guest.h"
+	"display.h"
+	"record.h"
+
+1463854585 source:c:\users\woop\desktop\新建文件夹\src\record.c
+	"record.h"
+	"menu.h"
+	"guest.h"
+	"room.h"
+	<time.h>
+	<stdio.h>
+
+1463846682 source:c:\users\woop\desktop\新建文件夹\src\room.c
+	"room.h"
+	"guest.h"
+	<stdlib.h>
+
+1463854016 source:c:\users\woop\desktop\新建文件夹\src\util.c
+	"util.h"
+	"room.h"
+	"guest.h"
+	<time.h>
+	<stdio.h>
+
